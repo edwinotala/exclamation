@@ -6,7 +6,7 @@
   
 ## Pitch
 
-    Exclamation allie les technologies les plus pointues en matière de tracking de donnée physiologique avec la simplicité    d'une application multi-supports, aussi bien sur smartphone que sur smartwatch afin de donner accès au plus grand nombre une aide devenu aujourd'hui indispensable chez les sportifs professionnels pour atteindre le maximum de leurs performances.
+    Exclamation allie les technologies les plus pointues en matière de tracking de donnée physiologique avec la simplicité    d'une application multi-supports, aussi bien sur smartphone que sur smartwatch afin de donner accès au plus grand nombre une aide devenue aujourd'hui indispensable chez les sportifs professionnels pour atteindre le maximum de leurs performances.
     
 ### Outils utilisés
 
