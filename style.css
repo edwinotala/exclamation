@@ -1,0 +1,179 @@
+body 
+{
+  background-color: #FFFFFF !important;
+  color: black !important;
+}
+
+.margin-left {
+  margin-left: 10px;
+}
+.textebas {
+  color: rgb(120, 120, 120)    
+}
+
+.bigToSmall { height: 60px; 
+  font-size: 20px;
+}
+
+.spaceleft {margin-left: 1em;letter-spacing: 2px; font-size: 1em
+}
+
+
+
+.text-intro { 
+  text-align: center;
+  font-size: 19PX;
+}
+
+.navbarNav{
+  background: #808080;
+}
+
+.nav-link{
+    color: #FDFFFC;
+}
+.footer-1 {
+  background-color: #161925 !important;
+  padding: 50px 0;
+
+}
+
+.textebas{ background-color: #161925;
+}
+
+
+
+.a{
+    color:#FDFFFC;
+}
+.row {
+    padding: 0em 2em;
+    margin:0;
+}
+
+.stock {
+  background-image: url("pierre.jpg");
+  height: 90vh;
+  width: 100% !important;
+  background-size: cover;
+}
+
+.card-group {
+    width: 100%;
+    margin: 0 auto;
+    padding: 10% 0;
+}
+
+
+.text-align-center {
+  text-align: center;
+}
+
+.card {
+  margin-left: 20px !important;
+    text-align: center;
+}
+
+.card-product{
+  padding: 75px 0 !important; 
+}
+
+.card-img-top {
+  height: 228px;
+}
+
+.card-title{
+    color: #161925;
+    text-transform: uppercase;
+}
+
+.title1 {
+    font-family: 'Druk Cy Web', sans-serif;
+    font-style: oblique;
+    font-size: 3em;
+    text-transform: uppercase;
+    color: #FDFFFC;
+}
+
+.title2 {
+    font-family: 'Druk Cy Web', sans-serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    color: #FDFFFC;
+}
+
+.para1 {
+    font-family: 'Druk Cy Web', sans-serif;
+    font-size: 1.3em;
+    color:gainsboro;
+    font-weight: 100
+}
+
+.center {
+    position: absolute;
+    top: 40%;
+    transform: translateY(60%);
+    width: 100%;
+    text-align: center;
+    font-size: 3rem;
+    text-transform: uppercase;
+    color: #FDFFFC;
+}
+
+
+.couverture {
+  background-image: url("joggerfooter.jpg");
+  height: 60vh;
+  width: 100% !important;
+  background-size: cover;
+    background-position: bottom
+}
+
+.jumbotron {
+  background-image: url(pierre.jpg);
+  height: 90vh;
+  width: 100% !important;
+  background-size: cover;
+}
+    
+.jumbo {
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10% 0;
+}
+
+
+
+.button-one {
+    background: #980000;
+}
+.button-two {
+    background: #980000;
+}
+.button-three{
+    background: #0088FF
+}
+
+.button-one,
+.button-three,
+.button-two {
+    color: #FDFFFC;
+    display: inline-block;
+    border-radius: 0;
+    padding: 10px 18px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+    -moz-transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+
+.button-one:hover,
+.button-three:hover,
+.button-two:hover {
+    background: #161925;
+    color: #FDFFFC;
+    text-decoration: none
+}
